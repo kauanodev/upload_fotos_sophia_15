@@ -1,0 +1,22 @@
+body{
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding-top: 20%;
+
+    & .conteiner{
+        margin: 10px;
+        padding: 10px;
+        height: 100%;
+        align-items: center;
+        text-align: center;
+        border: 2px solid black;
+        & p{
+            margin-bottom: 5px;
+        }
+        & a {
+            margin-bottom: 5px;
+        }
+
+    }
+    }
